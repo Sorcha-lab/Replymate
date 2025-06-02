@@ -1,6 +1,6 @@
 # 🤖 Replymate – Customer Support Chatbot
 
-Reply Mate is a smart customer operations bot designed to handle basic customer support queries. Built on the Kore.ai platform, it simulates real customer interaction flows and integrates with the **Zoho Mail API** to send confirmation emails.
+Replymate is a smart customer operations bot designed to handle basic customer support queries. Built on the Kore.ai platform, it simulates real customer interaction flows and integrates with the **Zoho Mail API** to send confirmation emails.
 
 > 🌟 This is a portfolio project (no real customer data was used).
 
